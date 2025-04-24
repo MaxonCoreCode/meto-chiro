@@ -1,0 +1,19 @@
+.form_container {
+    display: flex;
+    justify-content: center; 
+    align-items: center; 
+    height: 97vh; 
+}
+
+.form {
+    max-width: 400px;
+    margin: 50px auto;
+    padding: 25px;
+    border: 1px solid #a34c4c;
+    border-radius: 8px;
+    background-color: #f77e7e;
+}
+
+.title {
+    text-align: center;
+}
